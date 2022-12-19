@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("hello git55，这是我修改的，但是没提交，然后创建分支，这个应该会带入新的分支中去");
         System.out.println("hello git66");
         System.out.println("hello git77");
+        System.out.println("hello git88，github");
     }
 
 }
