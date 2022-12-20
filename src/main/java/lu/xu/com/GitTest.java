@@ -3,7 +3,7 @@ package lu.xu.com;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
-        System.out.println("hello git22");
+        System.out.println("hello git22____测试冲突问题，GitHub上已经修改了，本地也来修改了，那么会冲突，需要手动合并冲突");
         System.out.println("hello git33");
         System.out.println("hello git44");
         System.out.println("hello git55，这是我修改的，但是没提交，然后创建分支，这个应该会带入新的分支中去");
