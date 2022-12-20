@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello git66");
         System.out.println("hello git77");
         System.out.println("hello git88，github");
+        System.out.println("hello git99，直接在GitHub上修改代码，然后使用idea去拉取 pull 代码 ");
     }
 
 }
