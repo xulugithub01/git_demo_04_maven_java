@@ -12,6 +12,8 @@ public class GitTest {
         System.out.println("hello git88，github");
         System.out.println("hello git99，直接在GitHub上修改代码，然后使用idea去拉取 pull 代码 ");
         System.out.println("hello git10_1 我在本地修改并提交到本地git仓库");
+
+        System.out.println("hello git10_2 我在本地修改并提交到本地gitee（码云）仓库");
     }
 
 }
